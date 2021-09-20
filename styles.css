@@ -1,0 +1,62 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    background-color: #fbbe4e;
+    font-family: 'Roboto', sans-serif;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.course {
+    background-color: #fbbe4e;
+    margin-bottom: 2.5rem;
+    padding: 1rem;
+}
+
+
+.buy {
+    font-size: 1.8rem;
+    border-radius: 45px;
+    padding-left: 1.5rem;
+    background-color: #64b161;
+    border-color: #64b161;
+}
+
+.wp {
+    padding-bottom: 0.3rem;
+    padding-right: 1rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #fbbe4e;
+    margin-top: 23rem;
+    margin-bottom: auto;
+}
+
+ul {
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+li {
+    display: inline-block;
+    padding: 1rem;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+p {
+    margin-bottom: 0;
+    color: black;
+    font-family: 'Roboto'
+}
+
+.video {
+    background-color: none;
+}
