@@ -34,7 +34,6 @@ h1 {
 footer {
     text-align: center;
     background-color: #fbbe4e;
-    margin-top: 23rem;
     margin-bottom: auto;
 }
 
@@ -59,4 +58,8 @@ p {
 
 .video {
     background-color: none;
+}
+
+.buy-button {
+    margin-bottom: 3rem;
 }
